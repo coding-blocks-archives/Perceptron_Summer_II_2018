@@ -11,3 +11,11 @@
 - `class 09`: Neural Networks introduction and numpy code
 - `class 10`: Neural Networks with PyTorch
 - `class 11`: Convolutional Neural Networks
+- `class 12`: Attention Mechanism and Markov Chains
+- `class 13`: Recurrent Neural Network
+- `class 14`: Word2Vec and Genetic Algorithms
+- `class 15`: LSTM Applications with PyTorch
+- `class 16`: Reinforcement Learning Introduction
+- `class 17`: Q-learning and Deep Reinforcement Learning
+- `class 18`: Google Deep Dream
+- `class 19`: Object detection with RCNN and Fast-RCNN
